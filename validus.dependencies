@@ -1,0 +1,22 @@
+[
+  {
+    "repository": "CyanogenMod/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch": "cm-12.0"
+  },
+  {
+    "repository": "CyanogenMod/android_hardware_qcom_fm",
+    "target_path": "hardware/qcom/fm",
+    "branch": "cm-12.0"
+  },
+  {
+    "repository": "invaderjohn/kool-aid_kernel_lge_msm8226_g2m",
+    "target_path":  "kernel/lge/msm8226_g2m",
+    "branch": "cm-12.0"
+  },
+  {
+    "repository": "invaderjohn/android_vendor_lge_g2m",
+    "target_path":  "vendor/lge/g2m",
+    "branch": "master"
+  }
+]
